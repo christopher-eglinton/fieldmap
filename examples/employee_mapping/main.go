@@ -19,13 +19,13 @@ type Employee struct {
 func main() {
 	input := map[string]any{
 		"employee": map[string]any{
-			"givenName":  "Chris",
-			"familyName": "Eglinton",
+			"givenName":  "Tony",
+			"familyName": "Soprano",
 		},
-		"workEmail": " CHRIS@EXAMPLE.COM ",
+		"workEmail": " tone@dimeo.com ",
 		"employment": map[string]any{
 			"active":    "true",
-			"startDate": "2024-01-15",
+			"startDate": "2026-03-28",
 		},
 	}
 
