@@ -29,7 +29,7 @@ Instead of writing repetitive mapping code, you define rules and apply them.
 ## Installation
 
 ```bash
-go get github.com/yourusername/fieldmap
+go get github.com/christopher-eglinton/fieldmap
 ```
 
 ---
